@@ -17,9 +17,16 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 ## GitHub Stats
 
 <div align="center">
-  [![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aditya-khade&show_icons=true&theme=github_dark)](https://github.com/Aditya-khade)  
-  [![Aditya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-khade&theme=github_dark&layout=compact)](https://github.com/Aditya-khade)
+  <a href="https://github.com/Aditya-khade">
+    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-khade&show_icons=true&theme=github_dark" alt="Aditya's GitHub Stats" />
+  </a>
+  <br>
+  <a href="https://github.com/Aditya-khade">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-khade&theme=github_dark&layout=compact" alt="Aditya's Top Langs" />
+  </a>
 </div>
+
+
 
 ## 🏆 Coding Platforms
 
