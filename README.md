@@ -37,7 +37,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 ## 🏆 Coding Platforms
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/ADITYA_KHADE?theme=unicorn&font=patrick_hand&extension=null)
-[![CodeChef Badge](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aditya_khade)  
+[![Aditya's CodeChef Stats](https://codechef-readme-stats.onrender.com/aditya_khade)](https://www.codechef.com/users/aditya_khade)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aditya_khade)  
 [![GeeksforGeeks Badge](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/aditya_khade/)
 
