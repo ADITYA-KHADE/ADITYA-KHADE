@@ -18,7 +18,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 <div align="center">
   <a href="https://github.com/Aditya-khade">
-    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-khade&show_icons=true&theme=github_dark" alt="Aditya's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Aditya-khade&show_icons=true&&theme=radical" alt="Aditya's GitHub Stats" />
   </a>
   <br>
   <a href="https://github.com/Aditya-khade">
