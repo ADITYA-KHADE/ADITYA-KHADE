@@ -22,7 +22,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
   </a>
   <br>
   <a href="https://github.com/Aditya-khade">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-khade&theme=github_dark&layout=compact" alt="Aditya's Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-khade&theme=github_dark&layout=pie" alt="Aditya's Top Langs" />
   </a>
 </div>
 
