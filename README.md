@@ -12,7 +12,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 ## 🛠️ Technologies and Tools
 
-![Skill Badges](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,docker,aws,git,github,linux,java)
+![Skill Badges](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,docker,aws,git,github)
 
 ## GitHub Stats
 
