@@ -36,7 +36,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 ## Coding Platforms
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 
   <!-- LeetCode Section -->
   <div style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px;">
