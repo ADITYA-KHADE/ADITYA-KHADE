@@ -36,21 +36,24 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 ## Coding Platforms
 
-<div style="display: flex; flex-direction:row; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
 
+  <!-- LeetCode Section -->
   <div style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px;">
     <h3>LeetCode</h3>
-    <img src="https://leetcode.card.workers.dev/ADITYA_KHADE?theme=unicorn&font=patrick_hand&extension=null" alt="LeetCode Stats">
+    <img src="https://leetcode.card.workers.dev/ADITYA_KHADE?theme=unicorn&font=patrick_hand&extension=null" alt="LeetCode Stats" style="max-width: 100%; height: auto;">
   </div>
 
-
+  <!-- CodeChef Section -->
   <div style="display: inline-flex; flex-direction: column; align-items: center;">
     <h3>CodeChef</h3>
     <a href="https://www.codechef.com/users/aditya_khade" target="_blank">
-      <img src="https://codechef-readme-stats.onrender.com/aditya_khade?v=1" alt="Aditya's CodeChef Stats">
+      <img src="https://codechef-readme-stats.onrender.com/aditya_khade?v=1" alt="Aditya's CodeChef Stats" style="max-width: 100%; height: auto;">
     </a>
   </div>
+
 </div>
+
 
 
 ### Other Platforms
