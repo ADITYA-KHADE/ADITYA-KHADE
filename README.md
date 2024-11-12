@@ -14,7 +14,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,docker,aws,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,mongodb,mysql,docker,aws,git,github&perline=10" />
   </a>
 </p>
 
