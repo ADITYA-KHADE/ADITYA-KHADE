@@ -31,7 +31,7 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 ## Commit Snake 🐍
 
-![Snake animation](https://github.com/Aditya-khade/Aditya-khade/blob/output/dist/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/HeyyCzer/HeyyCzer/blob/output/dist/github-contribution-grid-snake-dark.svg)
 
 ## Connect with Me
 
