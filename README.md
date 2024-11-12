@@ -34,15 +34,24 @@ Hello! I'm Aditya Khade, a passionate developer from Akola, Maharashtra, and cur
 
 
 
-## 🏆 Coding Platforms
+## Coding Platforms
 
-### LeetCode
-![LeetCode Stats](https://leetcode.card.workers.dev/ADITYA_KHADE?theme=unicorn&font=patrick_hand&extension=null)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- LeetCode Section -->
+  <div style="display: inline-flex; flex-direction: column; align-items: center; margin-right: 20px;">
+    <h3>LeetCode</h3>
+    <img src="https://leetcode.card.workers.dev/ADITYA_KHADE?theme=unicorn&font=patrick_hand&extension=null" alt="LeetCode Stats">
+  </div>
 
-### CodeChef
-<a href="https://www.codechef.com/users/aditya_khade" target="_blank">
-    <img src="https://codechef-readme-stats.onrender.com/aditya_khade?v=1" alt="Aditya's CodeChef Stats">
-</a>
+  <!-- CodeChef Section -->
+  <div style="display: inline-flex; flex-direction: column; align-items: center;">
+    <h3>CodeChef</h3>
+    <a href="https://www.codechef.com/users/aditya_khade" target="_blank">
+      <img src="https://codechef-readme-stats.onrender.com/aditya_khade?v=1" alt="Aditya's CodeChef Stats">
+    </a>
+  </div>
+</div>
+
 
 ### Other Platforms
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Aditya_khade)  
